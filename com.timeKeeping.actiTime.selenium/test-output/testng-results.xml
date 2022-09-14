@@ -5,39 +5,39 @@
       <![CDATA[Pass: New Customer added succesfully]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-09-14T10:50:26 IST" name="Default suite" finished-at="2022-09-14T10:51:00 IST" duration-ms="34180">
+  <suite started-at="2022-09-14T18:09:56 IST" name="Default suite" finished-at="2022-09-14T18:10:21 IST" duration-ms="25518">
     <groups>
     </groups>
-    <test started-at="2022-09-14T10:50:26 IST" name="Default test" finished-at="2022-09-14T10:51:00 IST" duration-ms="34180">
+    <test started-at="2022-09-14T18:09:56 IST" name="Default test" finished-at="2022-09-14T18:10:21 IST" duration-ms="25518">
       <class name="com.timeKeeping.actiTime.seleniumAutomationTaskTest.CreateCustomerInTaskTest">
-        <test-method is-config="true" signature="bsConfig()[pri:0, instance:com.timeKeeping.actiTime.seleniumAutomationTaskTest.CreateCustomerInTaskTest@5f058f00]" started-at="2022-09-14T10:50:26 IST" name="bsConfig" finished-at="2022-09-14T10:50:26 IST" duration-ms="11" status="PASS">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:com.timeKeeping.actiTime.seleniumAutomationTaskTest.CreateCustomerInTaskTest@5f058f00]" started-at="2022-09-14T18:09:56 IST" name="bsConfig" finished-at="2022-09-14T18:09:56 IST" duration-ms="18" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bsConfig -->
-        <test-method is-config="true" signature="bcConfig()[pri:0, instance:com.timeKeeping.actiTime.seleniumAutomationTaskTest.CreateCustomerInTaskTest@5f058f00]" started-at="2022-09-14T10:50:26 IST" name="bcConfig" finished-at="2022-09-14T10:50:44 IST" duration-ms="17531" status="PASS">
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:com.timeKeeping.actiTime.seleniumAutomationTaskTest.CreateCustomerInTaskTest@5f058f00]" started-at="2022-09-14T18:09:56 IST" name="bcConfig" finished-at="2022-09-14T18:10:08 IST" duration-ms="12234" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bcConfig -->
-        <test-method is-config="true" signature="bmConfig()[pri:0, instance:com.timeKeeping.actiTime.seleniumAutomationTaskTest.CreateCustomerInTaskTest@5f058f00]" started-at="2022-09-14T10:50:44 IST" name="bmConfig" finished-at="2022-09-14T10:50:44 IST" duration-ms="319" status="PASS">
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:com.timeKeeping.actiTime.seleniumAutomationTaskTest.CreateCustomerInTaskTest@5f058f00]" started-at="2022-09-14T18:10:08 IST" name="bmConfig" finished-at="2022-09-14T18:10:08 IST" duration-ms="404" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bmConfig -->
-        <test-method signature="createCustomerTest()[pri:0, instance:com.timeKeeping.actiTime.seleniumAutomationTaskTest.CreateCustomerInTaskTest@5f058f00]" started-at="2022-09-14T10:50:44 IST" name="createCustomerTest" finished-at="2022-09-14T10:50:58 IST" duration-ms="14171" status="PASS">
+        <test-method signature="createCustomerTest()[pri:0, instance:com.timeKeeping.actiTime.seleniumAutomationTaskTest.CreateCustomerInTaskTest@5f058f00]" started-at="2022-09-14T18:10:08 IST" name="createCustomerTest" finished-at="2022-09-14T18:10:18 IST" duration-ms="9844" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Pass: New Customer added succesfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- createCustomerTest -->
-        <test-method is-config="true" signature="amConfig()[pri:0, instance:com.timeKeeping.actiTime.seleniumAutomationTaskTest.CreateCustomerInTaskTest@5f058f00]" started-at="2022-09-14T10:50:58 IST" name="amConfig" finished-at="2022-09-14T10:51:00 IST" duration-ms="1741" status="PASS">
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:com.timeKeeping.actiTime.seleniumAutomationTaskTest.CreateCustomerInTaskTest@5f058f00]" started-at="2022-09-14T18:10:18 IST" name="amConfig" finished-at="2022-09-14T18:10:20 IST" duration-ms="2044" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- amConfig -->
-        <test-method is-config="true" signature="acConfig()[pri:0, instance:com.timeKeeping.actiTime.seleniumAutomationTaskTest.CreateCustomerInTaskTest@5f058f00]" started-at="2022-09-14T10:51:00 IST" name="acConfig" finished-at="2022-09-14T10:51:00 IST" duration-ms="351" status="PASS">
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:com.timeKeeping.actiTime.seleniumAutomationTaskTest.CreateCustomerInTaskTest@5f058f00]" started-at="2022-09-14T18:10:20 IST" name="acConfig" finished-at="2022-09-14T18:10:21 IST" duration-ms="926" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- acConfig -->
-        <test-method is-config="true" signature="asConfig()[pri:0, instance:com.timeKeeping.actiTime.seleniumAutomationTaskTest.CreateCustomerInTaskTest@5f058f00]" started-at="2022-09-14T10:51:00 IST" name="asConfig" finished-at="2022-09-14T10:51:00 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:com.timeKeeping.actiTime.seleniumAutomationTaskTest.CreateCustomerInTaskTest@5f058f00]" started-at="2022-09-14T18:10:21 IST" name="asConfig" finished-at="2022-09-14T18:10:21 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- asConfig -->
